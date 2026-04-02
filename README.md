@@ -16,7 +16,7 @@ src="https://camo.githubusercontent.com/dd0f09eed5275a26cbaf80435ee08627c7668dab
 
 ---
 Contato 📱
-Meu perfil no | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giulia-sousa-2bb60a232/)
+Meu perfil no | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-queiroz-b95224348)
 --- | ---
 
 

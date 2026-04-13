@@ -1,8 +1,7 @@
 ## Olá, me chamo Vitor! 💻
 
 - Sou estudante do curso de Análise e Desenvolvimento de Sistemas, atualmente no terceiro período. Aplicar inovações e
-pensar fora da caixa são princípios que me impulsionam ainda mais à entrar na área de tecnologia. Atualmente, estou 
-estudando Java, com o objetivo de me tornar um engenheiro de software.
+pensar fora da caixa são princípios que me impulsionam ainda mais à entrar na área de tecnologia. Atualmente, estudo Java, com o objetivo de evoluir na linguagem, aprimorar a minha lógica, conseguindo aplicar os meus conhecimentos em projetos reais.
 
 <img align="center" alt="Java" height="50px" width="50px" 
 src="https://camo.githubusercontent.com/dd0f09eed5275a26cbaf80435ee08627c7668dab2e5efa03abb73ce273b67638/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3531322f6a6176612d636f666665652d6375702d6c6f676f2e706e67"
@@ -15,7 +14,13 @@ src="https://camo.githubusercontent.com/dd0f09eed5275a26cbaf80435ee08627c7668dab
 />
 
 ---
-Contato 📱
+
+#### Atualmente estou estudando sobre:
+* Java e Programação Orientada à Objetos;
+* Sql ( relacionamentos, modelagem de tabelas, atributos e normalização);
+* Git.
+
+### Contato 📱
 Meu perfil no | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-queiroz-b95224348)
 --- | ---
 
